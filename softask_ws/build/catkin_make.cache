@@ -1,0 +1,2 @@
+softask/scripts
+-DCATKIN_DEVEL_PREFIX=/home/onatimus/softask_ws/devel -DCMAKE_INSTALL_PREFIX=/home/onatimus/softask_ws/install -G Unix Makefiles
